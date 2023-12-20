@@ -2,6 +2,8 @@
 
 ## Supported Versions
 
+Socket 0
+
 Security is a paramount aspect of the CDLI project. We are committed to ensuring the safety and integrity of our software.
 Below is a list of versions of the CDLI project that are currently being supported with security updates:
 
