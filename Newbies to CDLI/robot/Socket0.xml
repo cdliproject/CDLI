@@ -1,0 +1,42 @@
+<note>
+    <title>Socket 0</title>
+    <date>2023-12-20</date>
+    <abstract>Socket 0 is the phase 1 for CDLI design.</abstract>
+    <body>
+        <section>
+            <header>Overview of CDLI</header>
+            <content>
+                CDLI is an self programming AI,
+                in the glimpse of becoming AGI of the network.
+            </content>
+        </section>
+        <section>
+            <header>Details of Phase 1: Socket 0</header>
+            <content>
+                First phase (Socket 0) is about the foundational consensus of the architectures
+                and framework appliance for CDLI. Initially,
+                socket 0 will be maintained by perpetuating scripting data collection,
+                narrow designed AI training, effective knowledge modelling of collected data,
+                possibly creating a web of POW system via blockchain computation for data storage
+                and data filtration, and designing of Socket 1.
+            </content>
+        </section>
+        <section>
+            <header>Philosophy and Publicization</header>
+            <content>
+                After the team of CDLI start working on the Socket 0,
+                other Sockets will be publicized through blogpost. For the sake of philosophy,
+                we believe in freedom of knowledge, and utilization of opportunity.
+                Thus, named it CDLI as 451 from the book 'Fahrenheit 451' - Roman Numeral for 451 is 'CDLI'.
+            </content>
+        </section>
+        <section>
+            <header>CDLI's Goal and Future Prospects</header>
+            <content>
+                CDLI is no where close to being a model for AI tool bags.
+                CDLI is our goal to define 'singularity'.
+                You will find more about it on our blog posts.
+            </content>
+        </section>
+    </body>
+</note>
