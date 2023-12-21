@@ -11,7 +11,8 @@ Welcome to the CDLI, a collaborative effort aimed at revolutionizing AGI. Our mi
 - Develop open-source tools and resources for educational purposes.
 - Promote collaboration and knowledge-sharing within the digital learning community.
 
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
+![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository)
+
 
 Check out our [GitHub Contribution Graph](https://github.com/users/yourusername/contributions)
 
@@ -28,9 +29,8 @@ Meet our team of dedicated collaborators:
 ## Connect with Us
 
 - **[Our Website]([link_to_website](http://cdliproject.com/))**
-- **Social Media**:
-  - [Twitter]([link_to_twitter](https://twitter.com/cdliproject))
-  - [LinkedIn]([link_to_linkedin](https://www.linkedin.com/company/cdliproject))
+- **[Twitter]([link_to_twitter](https://twitter.com/cdliproject))**
+- **[LinkedIn]([link_to_linkedin](https://www.linkedin.com/company/cdliproject))**
 
 
 
