@@ -1,7 +1,7 @@
 # CDLI 
 
 <p align="center">
-  <img src="[URL_OF_YOUR_LOGO](https://pbs.twimg.com/profile_images/1737873441506594816/588x_sdW_400x400.jpg)" alt="CDLI Logo" width="200"/>
+  <img src="[URL_OF_YOUR_LOGO](./img/CDLI.png)" alt="CDLI Logo" width="200"/>
 </p>
 
 ## Introduction
