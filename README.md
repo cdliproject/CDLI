@@ -27,5 +27,23 @@ Meet our team of dedicated collaborators:
 - **[LinkedIn](https://www.linkedin.com/company/cdliproject)**
 
 
+## CI/CD with GitHub Actions
 
+We use GitHub Actions for continuous integration and deployment. Our workflows ensure code quality and efficient deployment.
 
+### Node.js Continuous Integration Workflow
+
+Our `Node.js CI` workflow is triggered on every push and pull request to the main branch. It performs the following tasks:
+
+- **Checkout**: Checks out the source code.
+- **Node Setup**: Sets up the Node.js environment.
+- **Install Dependencies**: Runs `npm ci` to install dependencies.
+- **Build**: Runs `npm run build`.
+- **Test**: Executes `npm test`.
+
+The workflow is defined in `.github/workflows/nodejs.yml`:
+
+```yaml
+name: Node.js CI
+on: ...
+jobs: ...
