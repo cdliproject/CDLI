@@ -1,5 +1,9 @@
 # CDLI 
 
+<p align="center">
+  <img src="[URL_OF_YOUR_LOGO](https://pbs.twimg.com/profile_images/1737873441506594816/588x_sdW_400x400.jpg)" alt="CDLI Logo" width="200"/>
+</p>
+
 ## Introduction
 
 Welcome to the CDLI, a collaborative effort aimed at revolutionizing AGI. Our mission is to create an interactive and engaging platform for learners and contributors globally.
