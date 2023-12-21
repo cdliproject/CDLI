@@ -12,9 +12,9 @@ Check out our [GitHub Contribution Graph](https://github.com/users/ActualUsernam
 
 Meet our team of dedicated collaborators:
 
-- **[Collaborator 1](https://github.com/themkdemiiir)**
-- **[Collaborator 2](https://github.com/Simurgan)**
-- **[Collaborator 3](https://github.com/rekurrenzk)**
+- **[Collaborator 1](https://github.com/themkdemiiir)** - Mehmet Kaan Demir
+- **[Collaborator 2](https://github.com/Simurgan)** - Ömer Şükrü Uyduran
+- **[Collaborator 3](https://github.com/rekurrenzk)** - Fatih Burak Karagöz
 
 ## Connect with Us
 
