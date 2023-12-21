@@ -1,7 +1,7 @@
 # CDLI 
 
 <p align="center">
-  <img src="[URL_OF_YOUR_LOGO](/img/CDLI.png)" alt="CDLI Logo" width="200"/>
+  <img src="./img/CDLI.png" alt="CDLI Logo" width="200"/>
 </p>
 
 ## Introduction
